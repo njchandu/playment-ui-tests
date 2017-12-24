@@ -1,0 +1,9 @@
+# update the /src/test/java/setup/TestData.java accordingly
+
+url: https://internal-test.playment.io
+username: kulkarni.karthik@gmail.com
+password: pl@ym#nt2017
+projectExplorerUrl: https://internal-test.playment.io/#/project-explorer
+sampleText1: First Sample Text
+sampleText2: Second Sample Text
+sampleDesc: Sample Desc
