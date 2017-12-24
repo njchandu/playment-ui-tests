@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1514159053544" stop="1514159087336" version="1.4.23.HOTFIX1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : playment-ui-tests</name>
+    <title>Default Suite : playment-ui-tests</title>
+    <test-cases>
+        <test-case start="1514159053754" stop="1514159087330" status="passed">
+            <name>projectManagementTest</name>
+            <steps/>
+            <attachments>
+                <attachment title="Page screenshot" source="292f7199-b569-4f3f-9090-d3491fe98552-attachment.png" type="image/png"/>
+                <attachment title="Page screenshot" source="5e0c49a7-447e-4bd0-b863-18cb4470b1ac-attachment.png" type="image/png"/>
+                <attachment title="Page screenshot" source="eee44009-7cb1-4d36-999f-6f528e6e15a8-attachment.png" type="image/png"/>
+                <attachment title="Page screenshot" source="b22bdfda-348d-4982-aabb-f3f73f0df6c2-attachment.png" type="image/png"/>
+                <attachment title="Page screenshot" source="d846ec48-9034-42fa-825c-9594f00200be-attachment.png" type="image/png"/>
+                <attachment title="Page screenshot" source="3bc40a0f-d40f-4673-acef-aea9a58e4d89-attachment.png" type="image/png"/>
+                <attachment title="Page screenshot" source="d096c327-f6b9-4fc8-9e06-d262e8b2aa09-attachment.png" type="image/png"/>
+                <attachment title="Page screenshot" source="4e6c85ce-25fb-466c-b30f-55bb124b05e4-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="CJavaregowda-MAC-2.local"/>
+                <label name="thread" value="91159@CJavaregowda-MAC-2.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

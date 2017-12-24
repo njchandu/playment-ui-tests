@@ -1,0 +1,10 @@
+# update the /src/test/java/setup/Config.java accordingly
+
+browser: chrome
+maximize: true
+timeout: 100
+timeoutInSeconds: 5
+timeoutForWait: 20
+nodeUrl: http://localhost:4444/wd/hub
+explicitTimeOut: 1000
+pollingDuration: 500

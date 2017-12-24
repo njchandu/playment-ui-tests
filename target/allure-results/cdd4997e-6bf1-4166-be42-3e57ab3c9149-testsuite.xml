@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1514159751063" stop="1514159785519" version="1.4.23.HOTFIX1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : playment-ui-tests</name>
+    <title>Default Suite : playment-ui-tests</title>
+    <test-cases>
+        <test-case start="1514159751331" stop="1514159785515" status="passed">
+            <name>projectManagementTest</name>
+            <steps>
+                <step start="1514159752460" stop="1514159752667" status="passed">
+                    <name>enterUsername[kulkarni.karthik@gmail.com]</name>
+                    <title>Enter username kulkarni.karthik@gmail.com</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159752669" stop="1514159752769" status="passed">
+                    <name>enterPassword[pl@ym#nt2017]</name>
+                    <title>Enter password pl@ym#nt2017</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159752771" stop="1514159753205" status="passed">
+                    <name>submit</name>
+                    <title>Submit</title>
+                    <attachments>
+                        <attachment title="Page screenshot" source="e4f9f359-b20d-4360-8dc6-295390ee8411-attachment.png" type="image/png"/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start="1514159753206" stop="1514159759393" status="passed">
+                    <name>selectFirstProject</name>
+                    <title>Select first project</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159759394" stop="1514159763010" status="passed">
+                    <name>selectFirstMircoTask</name>
+                    <title>Select first microtask</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159763012" stop="1514159763632" status="passed">
+                    <name>createMicrotask</name>
+                    <title>Create microtask</title>
+                    <attachments>
+                        <attachment title="Page screenshot" source="64f7a924-2c2c-439b-ac89-1db562499a96-attachment.png" type="image/png"/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start="1514159764171" stop="1514159766483" status="passed">
+                    <name>selectFirstProject</name>
+                    <title>Select first project</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159766484" stop="1514159769625" status="passed">
+                    <name>selectFirstMircoTask</name>
+                    <title>Select first microtask</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159769627" stop="1514159770239" status="passed">
+                    <name>createMicrotask</name>
+                    <title>Create microtask</title>
+                    <attachments>
+                        <attachment title="Page screenshot" source="3b4a812c-f108-4df8-8301-7b53b7d399c8-attachment.png" type="image/png"/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start="1514159770240" stop="1514159772365" status="passed">
+                    <name>saveConfig</name>
+                    <title>Save config</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159772367" stop="1514159775883" status="passed">
+                    <name>gotoTaskUIPage</name>
+                    <title>Go to TaskUI Page</title>
+                    <attachments>
+                        <attachment title="Page screenshot" source="9cf8081f-769f-4f61-8c99-498b37778ac4-attachment.png" type="image/png"/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start="1514159775884" stop="1514159777186" status="passed">
+                    <name>addTask</name>
+                    <title>Add task</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159777187" stop="1514159777328" status="passed">
+                    <name>selectNextElement</name>
+                    <title>Select next element</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159777330" stop="1514159777561" status="passed">
+                    <name>selectLargeHeader</name>
+                    <title>Select large header</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159777561" stop="1514159777822" status="passed">
+                    <name>enterText[First Sample Text]</name>
+                    <title>Enter First Sample Text</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159777822" stop="1514159777924" status="passed">
+                    <name>addTask</name>
+                    <title>Add task</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159777925" stop="1514159778052" status="passed">
+                    <name>selectNextElement</name>
+                    <title>Select next element</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159778053" stop="1514159778220" status="passed">
+                    <name>selectLargeHeader</name>
+                    <title>Select large header</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159778221" stop="1514159778436" status="passed">
+                    <name>enterText[Second Sample Text]</name>
+                    <title>Enter Second Sample Text</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159778437" stop="1514159778540" status="passed">
+                    <name>save</name>
+                    <title>Save</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159778541" stop="1514159779070" status="passed">
+                    <name>gotoInstructionsPage</name>
+                    <title>Go to instructions page</title>
+                    <attachments>
+                        <attachment title="Page screenshot" source="599bb9d3-bc08-41e4-a339-1a931bdc49df-attachment.png" type="image/png"/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start="1514159779071" stop="1514159780029" status="passed">
+                    <name>enterDesc[Sample Desc]</name>
+                    <title>Enter desc Sample Desc</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1514159780031" stop="1514159780143" status="passed">
+                    <name>save</name>
+                    <title>Save</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Page screenshot" source="a4eb1633-aaac-4bd9-b502-e2d0a6365ae0-attachment.png" type="image/png"/>
+                <attachment title="Page screenshot" source="5fa264d7-d7ed-4ac4-b385-bcb6ac50b08e-attachment.png" type="image/png"/>
+                <attachment title="Page screenshot" source="38e2ec78-8f5f-464d-a1c2-4a92199dcc53-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="host" value="CJavaregowda-MAC-2.local"/>
+                <label name="thread" value="91633@CJavaregowda-MAC-2.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
