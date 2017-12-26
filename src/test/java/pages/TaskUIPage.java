@@ -28,6 +28,7 @@ public class TaskUIPage extends BasePage {
 
     @Step("Add task")
     public TaskUIPage addTask() {
+        waitFor(3000);
         clickOnElement(addTask);
         return this;
     }
